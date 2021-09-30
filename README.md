@@ -6,4 +6,4 @@ Descrição inicial do meu READ ME
 
 Blablablalbla
 
-## Para que serve esse arquivo%
+## Para que serve esse arquivo?
